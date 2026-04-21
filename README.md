@@ -5,7 +5,7 @@ As a developer with a background in music, I wanted to build a tool that treats 
 
 ## 🚀 Features
 
-- **Interactive Instrument Gallery:** A grid-based UI that allows users to explore 25+ unique instruments.
+- **Interactive Instrument Gallery:** A grid-based UI that allows users to explore 25 unique instruments.
 - **Curated Data Schema:** Each instrument includes specific metadata:
   - Origin (Geography)
   - Subjective Difficulty Rating (1-10)
