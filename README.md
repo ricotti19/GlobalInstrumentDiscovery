@@ -31,16 +31,25 @@ This project intentionally showcases a wide spectrum of data, ranging from:
 
 ## ⚙️ Installation & Setup
 To get a local instance of this project running, follow these steps. Ensure you have **Node.js** installed.
+
 1. **Clone the Repository:**
    ```bash
-   git clone [https://github.com/ricotti19/GlobalInstrumentDiscovery.git]
+   git clone https://github.com/ricotti19/GlobalInstrumentDiscovery.git
+   ```
+
 2. **Navigate to the Project Directory:**
-  ```bash
+   ```bash
    cd GlobalInstrumentDiscovery
+   ```
+
 3. **Install Dependencies:**
-  ```bash
-    npm install
-  4. **Run the Development Server:**
-```bash
-npm run dev
-5. Access the App: Open your browser to the local URL provided in your terminal (usually http://localhost:5173 or 5174).
+   ```bash
+   npm install
+   ```
+
+4. **Run the Development Server:**
+   ```bash
+   npm run dev
+   ```
+
+5. **Access the App:** Open your browser to the local URL provided in your terminal (usually http://localhost:5173 or 5174).
