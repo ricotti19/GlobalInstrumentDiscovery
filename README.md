@@ -29,11 +29,13 @@ This project intentionally showcases a wide spectrum of data, ranging from:
 * **Accessible/Modern Instruments:** (e.g., Harmonium and Saxophone).
 * **Niche/Casual Data Points:** (e.g., Kids Xylophone) to demonstrate data diversity and UI edge-case handling.
 
-* **Project Structure:
-* GlobalInstrumentDiscovery/
+## 📋 Project Structure
+
+```text
+GlobalInstrumentDiscovery/
 ├── public/              # Static assets such as images
 ├── src/
-│   ├── assets           # Starter icons
+│   ├── assets/          # Starter icons (react.svg, vite.svg)
 │   ├── App.css          # Styling sheet
 │   ├── App.jsx          # Main application logic
 │   ├── index.css        # Global styles
@@ -41,7 +43,7 @@ This project intentionally showcases a wide spectrum of data, ranging from:
 ├── index.html           # Root HTML
 ├── package.json         # Dependencies & scripts
 └── README.md            # Project documentation
-
+```
 
 ## ⚙️ Installation & Setup
 To get a local instance of this project running, follow these steps. Ensure you have **Node.js** installed.
