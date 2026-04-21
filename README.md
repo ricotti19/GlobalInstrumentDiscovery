@@ -69,3 +69,6 @@ To get a local instance of this project running, follow these steps. Ensure you 
    ```
 
 5. **Access the App:** Open your browser to the local URL provided in your terminal (usually http://localhost:5173 or 5174).
+
+<img width="1916" height="1160" alt="image" src="https://github.com/user-attachments/assets/afa631db-a314-499c-a212-e4022ce4d2e9" />
+
